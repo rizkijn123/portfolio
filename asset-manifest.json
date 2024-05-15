@@ -8,7 +8,7 @@
     "main.3d896dc5.js.map": "/static/js/main.3d896dc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e66ecfb.css",
-    "static/js/main.3d896dc5.js"
+    "/static/css/main.9e66ecfb.css",
+    "/static/js/main.3d896dc5.js"
   ]
 }
